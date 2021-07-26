@@ -1,0 +1,15 @@
+﻿2021-07-26 13:39:30.9343|INFO|NlogProject.NLog|Add method
+2021-07-26 13:39:31.0208|DEBUG|NlogProject.NLog|Debug Successful
+2021-07-26 13:39:31.0230|ERROR|NlogProject.NLog| first number or second number is zero
+2021-07-26 13:56:24.0585|INFO|NlogProject.NLog|Add method
+2021-07-26 13:56:24.1141|DEBUG|NlogProject.NLog|Debug Successful
+2021-07-26 13:56:24.1147|ERROR|NlogProject.NLog| first number or second number is zero
+2021-07-26 14:35:24.2803|INFO|NlogProject.NLog|Add method
+2021-07-26 14:35:24.3417|DEBUG|NlogProject.NLog|Debug Successful
+2021-07-26 14:35:24.3417|WARN|NlogProject.NLog| first number or second number is zero
+2021-07-26 14:37:33.3918|INFO|NlogProject.NLog|Add method
+2021-07-26 14:37:33.4555|DEBUG|NlogProject.NLog|Debug Successful
+2021-07-26 14:37:33.4555|WARN|NlogProject.NLog| first number or second number is zero
+2021-07-26 14:51:46.2707|INFO|NlogProject.NLog|Add method
+2021-07-26 14:51:46.3286|DEBUG|NlogProject.NLog|Debug Successful
+2021-07-26 14:51:46.3286|WARN|NlogProject.NLog| first number or second number is zero
